@@ -1,0 +1,21 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist to join our analytics team. You will clean and
+analyze data, build machine learning models, and present insights to the business.
+
+Responsibilities:
+- Collect, clean, and analyze large datasets using Python, Pandas, and NumPy
+- Write SQL queries to extract data from databases
+- Build, train, and evaluate machine learning models using Scikit-learn
+- Apply statistics to test hypotheses and validate results
+- Create data visualization with Matplotlib and present findings to stakeholders
+- Work in Jupyter Notebook and share code through Git
+
+Requirements:
+- Bachelor's degree in Computer Science, Statistics, Data Science, or a related field
+- 2+ years of experience in data science or analytics
+- Strong skills in Python, SQL, Pandas, NumPy, Scikit-learn, machine learning,
+  statistics, and data visualization
+- Good communication and problem-solving skills
+
+Nice to have: Streamlit, TensorFlow, Git

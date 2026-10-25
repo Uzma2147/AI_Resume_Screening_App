@@ -1,0 +1,10 @@
+Python
+SQL
+Pandas
+NumPy
+Scikit-learn
+Machine Learning
+Statistics
+Data Visualization
+Matplotlib
+Jupyter Notebook
